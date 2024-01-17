@@ -8,3 +8,12 @@ header{
     background-color: rgba(255, 0, 0, .3);
     border: red 1px solid;
 }
+
+
+section:nth-of-type(2n){
+    background-color: #1abc9c;
+}
+
+#about .container{
+    height: 200px;
+}
