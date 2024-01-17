@@ -1,0 +1,10 @@
+header{
+    background-color: #1abc9c;
+}
+
+
+
+[class*="col"]{
+    background-color: rgba(255, 0, 0, .3);
+    border: red 1px solid;
+}
